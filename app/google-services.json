@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "313080371786",
+    "project_id": "homestayapp-64ed6",
+    "storage_bucket": "homestayapp-64ed6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313080371786:android:5a6603a8f97f1dad5424b3",
+        "android_client_info": {
+          "package_name": "com.example.homestay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313080371786-paiv18q985e5b51gafffidfcmsr4h4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPnYI5shjSW1Wrtt-n2YGDe28ZDIH2YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313080371786-paiv18q985e5b51gafffidfcmsr4h4p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313080371786:android:f3a199aacb793e965424b3",
+        "android_client_info": {
+          "package_name": "com.namma.homestay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313080371786-paiv18q985e5b51gafffidfcmsr4h4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPnYI5shjSW1Wrtt-n2YGDe28ZDIH2YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313080371786-paiv18q985e5b51gafffidfcmsr4h4p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
