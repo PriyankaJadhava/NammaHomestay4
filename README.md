@@ -1,26 +1,40 @@
-# NammaHomeStay
+# Namma HomeStay
 
-NammaHomeStay is an Android application that helps rural and coastal homestay owners promote their rooms and local food online.
+A modern Android application for managing homestay services, menus, guest inquiries, and local travel guidance.
 
 ## Features
-- Upload homestay details
-- Add room photos
-- Show local food menu
-- Contact travelers
-- Easy booking interface
+
+- Secure Login System
+- Verification Checklist
+- Food Menu Management
+- Guest Inquiry Box
+- Secret Tourist Spots Guide
+- Dark Theme Modern UI
 
 ## Tech Stack
-- Android Studio
+
 - Kotlin
-- Firebase
+- Android Studio
+- Jetpack Compose / XML
+- Material Design
 
-## How to Run
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle
-4. Run the app
+## Screenshots
 
-## Future Improvements
-- Online payment
-- Multi-language support
-- Maps integration
+### Login Screen
+![Login](screenshots/login.png)
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Menu Screen
+![Menu](screenshots/menu.png)
+
+### Inquiry Box
+![Inquiry](screenshots/inquiry.png)
+
+### Secret Spots Guide
+![Guide](screenshots/guide.png)
+
+## Author
+
+Priyanka Jadhava
