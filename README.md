@@ -21,20 +21,18 @@ A modern Android application for managing homestay services, menus, guest inquir
 ## Screenshots
 
 ### Login Screen
-![Login](screenshots/login.png)
+![Login](Screenshot%202026-05-14%20143309.png)
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](Screenshot%202026-05-14%20143433.png)
 
 ### Menu Screen
-![Menu](screenshots/menu.png)
+![Menu](Screenshot%202026-05-14%20143501.png)
 
 ### Inquiry Box
-![Inquiry](screenshots/inquiry.png)
+![Inquiry](Screenshot%202026-05-14%20143523.png)
 
 ### Secret Spots Guide
-![Guide](screenshots/guide.png)
-
-## Author
+![Guide](Screenshot%202026-05-14%20143539.png)
 
 Priyanka Jadhava
